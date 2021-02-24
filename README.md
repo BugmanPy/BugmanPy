@@ -2,13 +2,13 @@
 ### Hi geeks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/bugman_py/">
-  <img align="left" alt="BugmanPy's instagram" width="22px" src="./assets/img/insta.png" />
+  <img align="left" alt="BugmanPy's instagram" width="22px" src="./insta.png" />
 </a>
 <a href="https://www.instagram.com/bugman_py/">
-  <img align="left" alt="BugmanPy's LinkedIn" width="22px" src="./assets/img/linkedin.png" />
+  <img align="left" alt="BugmanPy's LinkedIn" width="22px" src="./linkedin.png" />
 </a>
 <a href="https://www.instagram.com/bugman_py/">
-  <img align="left" alt="BugmanPy's Youtube" width="22px" src="./assets/img/youtube.png" />
+  <img align="left" alt="BugmanPy's Youtube" width="22px" src="./youtube.png" />
 </a>
 
 ---
