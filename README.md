@@ -15,7 +15,8 @@
 <br/>
 <br/>
 
-Hey fellows…Welcome to my workshop. <img src="https://media.giphy.com/media/cOWBxwbto2ytrzxGqY/giphy.gif" width="25px">
+Hey fellows…Welcome to my workshop.
+<img src="https://media.giphy.com/media/cOWBxwbto2ytrzxGqY/giphy.gif" width="25px">
 
 Im Thejus (BugmanPy), a full stack web developer and a cyber security enthusiast, currently working on React framework.
 Feel free to wander through my repo and if you think you can contribute to any of my projects, you are most welcome to do so. 
