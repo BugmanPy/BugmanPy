@@ -11,6 +11,16 @@
   <img align="left" alt="BugmanPy's Youtube" width="22px" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" />
 </a>
 
+
+<br/>
+<br/>
+
+Hey fellows…Welcome to my workshop. <img src="https://media.giphy.com/media/cOWBxwbto2ytrzxGqY/giphy.gif" width="25px">
+
+Im Thejus (BugmanPy), a full stack web developer and a cyber security enthusiast, currently working on React framework.
+Feel free to wander through my repo and if you think you can contribute to any of my projects, you are most welcome to do so. 
+
+
 <br/>
 
 
