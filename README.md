@@ -27,7 +27,7 @@ Feel free to wander through my repo and if you think you can contribute to any o
 
 ---
 
-My Github stats 
+#### My Github stats 
 
 [![BugmanPy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BugmanPy&show_icons=true&icon_color=fff&text_color=fff&bg_color=055C9D&line_height=30&hide_title=true&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
