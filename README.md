@@ -22,6 +22,8 @@ Im Thejus (BugmanPy), a full stack web developer and a cyber security enthusiast
 Feel free to wander through my repo and if you think you can contribute to any of my projects, you are most welcome to do so. 
 
 
+> I will be inactive for some time. But feel free to contact me 📫 .
+
 <br/>
 
 
@@ -32,7 +34,6 @@ Feel free to wander through my repo and if you think you can contribute to any o
 [![BugmanPy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BugmanPy&show_icons=true&icon_color=fff&text_color=fff&bg_color=055C9D&line_height=30&hide_title=true&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-> I will be inactive for some time. But feel free to contact me 📫 .
 
 <!--
 **BugmanPy/BugmanPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
