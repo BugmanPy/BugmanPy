@@ -22,8 +22,6 @@ Im Thejus (BugmanPy), a full stack web developer and a cyber security enthusiast
 Feel free to wander through my repo and if you think you can contribute to any of my projects, you are most welcome to do so. 
 
 
-> I will be inactive for some time. But feel free to contact me 📫 .
-
 <br/>
 
 
